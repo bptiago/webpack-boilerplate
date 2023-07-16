@@ -1,4 +1,4 @@
-Webpack boilerplate with SASS and Babel
+Webpack boilerplate with Babel Loader, Sass Loader With Dart Sass, HTMLWebpackPlugin, WebpackDevServer, Asset Resource Loader, Source Maps and Caching
 
 To build the file, use "npm run build"
 - The JavaScript file built is named with a hash, that's why it has a long name
